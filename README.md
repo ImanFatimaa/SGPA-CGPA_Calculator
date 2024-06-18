@@ -1,0 +1,3 @@
+# SGPA_CGPA_Calculator
+This project focuses on developing an SGPA and CGPA calculator using Python, tailored to simplify academic performance tracking for students. This tool allows users to compute Semester Grade Point Average (SGPA) by entering grades and corresponding credit hours for each course. It also calculates Cumulative Grade Point Average (CGPA) by aggregating SGPA values across multiple semesters.
+The project's objective is to empower students with an accurate and efficient tool for monitoring their academic progress. By leveraging Python's computational capabilities, the calculator provides reliable calculations, aiding students in making informed decisions about their studies and achieving their educational goals effective
